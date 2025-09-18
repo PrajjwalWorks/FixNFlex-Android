@@ -49,7 +49,6 @@ Feel free to connect with us on GitHub
 
 ## 📂 Project Status
 ✅ Initial setup completed
-
 🚧 Ongoing development (Firebase integration & marketplace features)
 
 🔜 Planned enhancements:
