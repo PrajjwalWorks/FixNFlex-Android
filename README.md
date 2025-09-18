@@ -37,7 +37,9 @@ This is a major academic project built by a team of 4 developers.
 Feel free to connect with us on GitHub
 ## 📸 Screenshots
 
-<img src=https://github.com/PrajjwalWorks/FixNFlex-Android/blob/212f83d9c0f861be9ae4e4a9f37242573ab7921b/images/image1.png alt="App Screenshot" width="300"/>
+<img src=https://github.com/PrajjwalWorks/FixNFlex-Android/blob/212f83d9c0f861be9ae4e4a9f37242573ab7921b/images/image1.png alt="App Screenshot" width="100"/>
+<img src=https://github.com/PrajjwalWorks/FixNFlex-Android/blob/212f83d9c0f861be9ae4e4a9f37242573ab7921b/images/image2.png alt="App Screenshot" width="100"/>
+<img src=https://github.com/PrajjwalWorks/FixNFlex-Android/blob/212f83d9c0f861be9ae4e4a9f37242573ab7921b/images/image3.png alt="App Screenshot" width="100"/>
 
 
 ## 📂 Project Status
@@ -72,5 +74,5 @@ We are currently developing this project as a team project. Contributions will b
 
 ## License
 This project is licensed under the
-[MIT](https://github.com/PrajjwalWorks/Android-Calculator-App/blob/1a35a62b919400306bb298ef1e1c1999da77ab3c/LICENSE) License.
+[MIT](https://github.com/PrajjwalWorks/FixNFlex-Android/blob/c7e6f23fc244d0a109d0a11b64dcdc4047a3f8b8/LICENSE) License.
 
