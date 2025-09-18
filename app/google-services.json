@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950910121781",
+    "project_id": "fixnflex-881ce",
+    "storage_bucket": "fixnflex-881ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950910121781:android:4718934bc295ed3a44fe7c",
+        "android_client_info": {
+          "package_name": "com.example.fixnflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkArOwoJSAxBy0oYcQFRm8hv2cjBAbLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
