@@ -37,7 +37,13 @@ This is a major academic project built by a team of 4 developers.
 Feel free to connect with us on GitHub
 ## 📸 Screenshots
 
-<img src="https://github.com/PrajjwalWorks/FixNFlex-Android/blob/212f83d9c0f861be9ae4e4a9f37242573ab7921b/images/image1.png" alt="App Screenshot" width="100" style="margin-right:10px;"/><img src="https://github.com/PrajjwalWorks/FixNFlex-Android/blob/8400267144a400b923a8d3648f82545995985932/images/image2.png" alt="App Screenshot" width="100" style="margin-right:10px;"/><img src="https://github.com/PrajjwalWorks/FixNFlex-Android/blob/8400267144a400b923a8d3648f82545995985932/images/image3.png" alt="App Screenshot" width="100"/>
+<img src="https://github.com/PrajjwalWorks/FixNFlex-Android/blob/212f83d9c0f861be9ae4e4a9f37242573ab7921b/images/image1.png" 
+     alt="App Screenshot" width="100" style="display:inline-block; margin-right:10px;"/>
+<img src="https://github.com/PrajjwalWorks/FixNFlex-Android/blob/8400267144a400b923a8d3648f82545995985932/images/image2.png" 
+     alt="App Screenshot" width="100" style="display:inline-block; margin-right:10px;"/>
+<img src="https://github.com/PrajjwalWorks/FixNFlex-Android/blob/8400267144a400b923a8d3648f82545995985932/images/image3.png" 
+     alt="App Screenshot" width="100" style="display:inline-block;"/>
+
 
 
 
