@@ -29,10 +29,10 @@ This is a major academic project built by a team of 4 developers.
 
 
 ## 👨‍💻 Team Members
-- [Prajjwal Kumar](https://github.com/PrajjwalWorks) - UI/UX Design | Testing | Firebase Integration
+- [Prajjwal Kumar](https://github.com/PrajjwalWorks) - UI/UX Design | Testing | Firebase Authentication
 - [Rohit Kumar](https://github.com/rohitkumar2205) - Database & Cloud Setup
-- [Saumya Pratap Singh](https://github.com/saumyapratapsingh007)- Google Maps | APIs | Navigation 
-- [Aditya Singh](https://github.com/)- Testing | Documentation | Miscellaneous Tasks  
+- [Saumya Pratap Singh](https://github.com/saumyapratapsingh007) - Google Maps | APIs | Navigation 
+- [Aditya Singh](https://github.com/) - Testing | Documentation | Miscellaneous Tasks  
 
 Feel free to connect with us on GitHub
 ## 📸 Screenshots
